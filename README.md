@@ -1,6 +1,6 @@
-# Blog App - React Authentication & CRUD
+# Blog App
 
-A modern, production-grade React blog application with JWT authentication, protected routes, and full CRUD operations for blog posts.
+A blog application with JWT authentication, protected routes, and full CRUD operations for blog posts.
 
 ## 🌟 Features
 
